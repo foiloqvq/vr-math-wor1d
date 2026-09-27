@@ -26,5 +26,3 @@ The project aims to construct a gentle virtual habitat for users seeking spiritu
 ## Architecture Highlights
 The system adopts a modular architecture to separate rendering engine, world logic, AI service, asset management and economic subsystem, which facilitates independent iteration of each component. Content moderation and age-based access control are embedded as a fundamental cross-cutting module.
 
-## License
-TBD
